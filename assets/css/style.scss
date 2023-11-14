@@ -1,0 +1,17 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.wrapper{
+    position: relative;
+    right: 3%;
+    width: 50%;
+    margin: 0 auto;
+}
+
+section {
+    width: 80%;
+    margin: 0 auto;
+    position: relative;
+  }
