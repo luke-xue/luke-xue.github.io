@@ -2,9 +2,9 @@
 layout: default
 ---
 
-Hello world, I'm Luke Xue!
+Hey, I'm Luke Xue!
 
-I'm a Junior at [Columbia University](https://www.columbia.edu/) studying Computer Science. I've worked as a Software Engineering Intern at a variety of companies ranging from early to late stage. At [Noldor](https://www.noldor.com/), I built microservices for data pipelines. At [Sandia National Laboratories](https://www.sandia.gov/), I made an internal ChatGPT-style tool. At [Premise Data](https://premise.com/), I refactored an open-source project for quick Google Cloud Platform deployments.
+I'm a Junior at [Columbia University](https://www.columbia.edu/) studying Computer Science. Currently, you can find me building within [Overture](https://joinoverture.com). I previously worked as a Software Engineering Intern at a variety of companies ranging from early to late stage. At [Noldor](https://www.noldor.com/), I built microservices for data pipelines. At [Sandia National Laboratories](https://www.sandia.gov/), I made an internal ChatGPT-style tool. At [Premise Data](https://premise.com/), I refactored an open-source project for quick Google Cloud Platform deployments.
 
 I also source early-stage startups and founders as a [Pear](https://pear.vc/) Venture Fellow and I'm President of the [Columbia Organization of Rising Entrepreneurs](https://www.coreatcu.com/). Previously, I was a lead for [Almaworks](https://www.alma.works/), a student-run startup accelerator.
 
